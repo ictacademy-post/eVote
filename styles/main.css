@@ -9,7 +9,9 @@ body {
 
 .Menu {
     text-decoration: none;
+    float: left;
     position: relative;
+    margin-left: 20px;
     margin-inline-end: 40px;
     margin-bottom: 30px;
 }

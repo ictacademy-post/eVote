@@ -1,3 +1,8 @@
+.seite {
+    width: 100%;
+    max-width: 1200px;
+}
+
 body {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 14pt;
